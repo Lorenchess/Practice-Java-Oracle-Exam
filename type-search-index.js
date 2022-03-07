@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.chess4math.data","l":"Product"},{"p":"com.chess4math.app","l":"Shop"}];updateSearchResults();
